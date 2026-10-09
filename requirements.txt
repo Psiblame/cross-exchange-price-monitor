@@ -1,0 +1,5 @@
+# Historical network implementation only; not installed or integration-tested.
+# Resolve and lock exact versions before reactivating any adapter.
+aiohttp
+websockets
+python-telegram-bot
